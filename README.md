@@ -121,7 +121,8 @@ y el push
 git push
 ```
 
-
 HOLA
 
 CHAU
+
+Para hacer el repositorio hice un clon del repo del workshop usando desde mi directorio el comando git clone (link forkeado)
